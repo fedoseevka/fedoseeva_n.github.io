@@ -1,0 +1,68 @@
+body {
+	margin: 0 auto;
+   padding: 0 auto;
+}
+nav {
+	display: flex;
+    align-items: center;
+    
+}
+
+.menu {
+	text-decoration: none;
+    color: black;
+}
+
+a:hover {
+	color: red;
+}
+
+body {
+	background: url(https://cityreporter.ru/wp-content/uploads/2019/07/1508938898-1892.jpeg) no-repeat;
+	background-size: 100%;
+	
+
+
+}
+.logo {
+	width: 60px;
+	height: 60px;
+	margin-left: auto;
+
+}
+
+.container {
+ 	margin: 0 auto;
+ 	width: 1140px;
+ 	display: flex;
+ }
+
+.header {
+    
+}
+
+style {
+
+}
+
+.picture {
+	width: 640px;
+}
+
+.picture2{
+    margin-left: 0; 
+}
+
+
+.text{
+	font-size: 20px;
+}
+
+footer {
+	background-color: black;
+
+}
+.phone {
+	color: grey;
+}
+
